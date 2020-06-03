@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/colorchecker/static/css/main.4df0791a.chunk.css",
+    "main.js": "/colorchecker/static/js/main.dc771f72.chunk.js",
+    "main.js.map": "/colorchecker/static/js/main.dc771f72.chunk.js.map",
+    "runtime-main.js": "/colorchecker/static/js/runtime-main.bdd75b1f.js",
+    "runtime-main.js.map": "/colorchecker/static/js/runtime-main.bdd75b1f.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/colorchecker/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.107c3a7e.chunk.js": "/colorchecker/static/js/2.107c3a7e.chunk.js",
+    "static/js/2.107c3a7e.chunk.js.map": "/colorchecker/static/js/2.107c3a7e.chunk.js.map",
+    "index.html": "/colorchecker/index.html",
+    "precache-manifest.b623132f0b9f8f40da15c75a98ae99f0.js": "/colorchecker/precache-manifest.b623132f0b9f8f40da15c75a98ae99f0.js",
+    "service-worker.js": "/colorchecker/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/colorchecker/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.4df0791a.chunk.css.map": "/colorchecker/static/css/main.4df0791a.chunk.css.map",
+    "static/js/2.107c3a7e.chunk.js.LICENSE.txt": "/colorchecker/static/js/2.107c3a7e.chunk.js.LICENSE.txt",
+    "static/media/colorchecker.png": "/colorchecker/static/media/colorchecker.736d1382.png",
+    "static/media/icon.png": "/colorchecker/static/media/icon.d24a5895.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdd75b1f.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.107c3a7e.chunk.js",
+    "static/css/main.4df0791a.chunk.css",
+    "static/js/main.dc771f72.chunk.js"
+  ]
+}
